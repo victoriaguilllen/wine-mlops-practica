@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+joblib
+mlflow>=3.0
+dagshub
+dvc
